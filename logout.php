@@ -9,3 +9,4 @@ session_destroy();
 header('location:./main/index.php');
 
 ?>
+
