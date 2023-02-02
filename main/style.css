@@ -10,6 +10,8 @@ video{
   width:100vw;
   object-fit: cover;
 }
+
+
 .home{
 min-height: 100vh;
   display: flex;

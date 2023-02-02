@@ -22,9 +22,9 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     else{
         $showError = "Invalid Credentials";
     }
-}
-    
+}    
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>

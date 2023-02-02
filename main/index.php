@@ -5,6 +5,7 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true){
     exit;
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -112,8 +113,7 @@ fill="#000000" stroke="none">
           <br>
           </p>
         </div>
-  
-        <div class="mb-12 lg:mb-0">
+       <div class="mb-12 lg:mb-0">
           <div class="shadow-lg rounded-lg relative overflow-hidden bg-no-repeat bg-cover mb-6"
             style="background-position: 50%;" data-mdb-ripple="true" data-mdb-ripple-color="light">
             <img src="images/tiktaktoelogo.png" class="w-full" />
